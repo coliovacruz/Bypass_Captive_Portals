@@ -50,36 +50,7 @@ Curso técnico interativo sobre segurança ofensiva e defensiva de captive porta
 
 ### Abrir o curso
 
-```bash
-git clone https://github.com/coliovacruz/Bypass_Captive_Portals.git
-cd captive-portal-course
-open index.html   # ou abra o arquivo no browser manualmente
-```
-
-### Subir o Lab 1 (Portal Básico)
-
-```bash
-cd labs/captive-lab
-docker compose up -d
-# Acessar o portal: http://localhost:8080
-# Container atacante: docker exec -it lab-attacker bash
-```
-
-### Subir o Lab 2 (DNS Tunneling)
-
-```bash
-cd labs/dns-lab
-docker compose up -d
-# Container cliente: docker exec -it dns-client bash
-```
-
-### Subir o Lab 4 (MAB)
-
-```bash
-cd labs/mab-lab
-docker compose up -d
-# Container atacante: docker exec -it mab-attacker bash
-```
+Todo passo a passo está na pagina web.
 
 ---
 
