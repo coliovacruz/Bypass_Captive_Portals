@@ -51,7 +51,7 @@ Curso técnico interativo sobre segurança ofensiva e defensiva de captive porta
 ### Abrir o curso
 
 ```bash
-git clone https://github.com/coliovacruz/Bypass_Captive_Portals
+git clone https://github.com/coliovacruz/Bypass_Captive_Portals.git)
 cd captive-portal-course
 open index.html   # ou abra o arquivo no browser manualmente
 ```
